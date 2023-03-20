@@ -19,11 +19,13 @@ Desafios exclusivos, promovido pela Rockeseat. <br/>
 
 ## Status
 
- - Em desenvolvimento 🛑
+ - Em produção ✅
 
 ## 👨🏼‍💻 Funções
 
  - Estilos diferentes para um mesmo componente (Input e Button) através das propriedades atribuídas com Styled-Components
+ - Validação de formulário com Zod e React Hook Form
+ - Responsividade
 
 ## 🚀 Tecnologias
 
@@ -33,6 +35,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - Typescript
 - Tailwindcss
 - Styled Components
+- Zod
+- React Hook Form
 - Phosphor React
 - Git e Github
 
