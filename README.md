@@ -44,7 +44,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 Este projeto é o desafio 11 dos challengers semanais da Rocketseat #boraCodar
 
-- [Acesse o projeto finalizado, online](https://responsive-chat-bora-codar.vercel.app)
+- [Acesse o projeto finalizado, online](https://vertigo-bora-codar.vercel.app)
 
 ## 🔖 Layout
 
